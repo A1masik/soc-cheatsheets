@@ -1,6 +1,8 @@
 # SOC cheat sheets
 
+My name is Almas and doing it to my portfolio for cybersecurity work field.
 Short reference notes for SOC Tier 1 practice: reading packets, Windows events and Linux logs.
+
 
 | File | What is inside |
 |---|---|
